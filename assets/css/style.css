@@ -439,7 +439,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Portfolio
+# Projects
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
@@ -576,8 +576,16 @@ section {
   right: 15px;
 }
 
+.portfolio .section-title p {
+  text-align: center;
+}
+
+.blur {
+  filter: blur(4px);
+}
+
 /*--------------------------------------------------------------
-# Portfolio Details
+# Project Details
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
